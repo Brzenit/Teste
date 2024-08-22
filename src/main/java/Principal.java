@@ -14,6 +14,7 @@ public class Principal {
         Integer numero2 = scan.nextInt();
 
         utilitario.soma(numero1 , numero2);
+        System.out.println("teste");
     }
 
 }
